@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/VFX/NS_PixelFire.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/Material/MAT_Fire.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/VFX/NS_HealingCircle.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/ZV/M9VMITJT5Q7B1CLMXRVOIM.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QS/X0WMJ1D71GH5NWOB9DKBDQ.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/T0/GNAPQAMYPOCICKV2QPSQKY.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/M7/JTNWXS1IB1FG0FUAIK2YBV.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9P/DL09O8MLUILTB9CE1YGTK6.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/P9/C166P9N77ZRW1ADCNDXPP8.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/3P/2MKE0X1R6CX3Z0J8WA03E6.uasset",
+				"C:/Users/l021011n/OneDrive - Staffordshire University/Unreal Projects/VFXProject/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/l021011n/Documents/Unreal Projects/VFXProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+			]
+		}
+	]
+}
