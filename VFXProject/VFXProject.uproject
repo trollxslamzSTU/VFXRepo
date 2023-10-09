@@ -11,6 +11,9 @@
 				"Editor"
 			]
 		},
-
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": true
+		}
 	]
 }
