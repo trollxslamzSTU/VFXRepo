@@ -7,11 +7,21 @@
 			"files": [
 				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Textures/BeamMat.uasset",
 				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Textures/BeamWogbble.uasset",
-				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Emitters/NE_Loic.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Emitters/NE_Loic.uasset",
 				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Textures/SolidMeshes.uasset",
-				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BB/2K5XM901RU1YN57PPRNVFR.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/BB/2K5XM901RU1YN57PPRNVFR.uasset",
 				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/20/NZRFP04XYS7GK8CM5SD68T.uasset",
-				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Meshes/Screw.uasset"
+				"C:/Users/Ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Meshes/Screw.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Emitters/NE_Lava.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Textures/FirstTextureLesson_LightningPoggers.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LOIC/Textures/FirstTextureLesson_LightningPoggers_Mat.uasset",
+				"E:/Unreal/UE_5.2/Engine/Content/EngineMaterials/EmissiveTexturedMaterial.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/NE_Lava_Auto2.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Textures/FirstTextureLesson_LavaFlipbook_Mat.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Textures/FirstTextureLesson_LavaRing_Mat.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Textures/JamiesTearsAndPain_lavaFirst_Mat.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Textures/FirstTextureLesson_lavaspawner.uasset",
+				"C:/Users/ethan/Documents/GitHub/VFXRepo/VFXProject/Content/VFX/LavaStrike/Textures/FirstTextureLesson_lavaspawner_Mat.uasset"
 			]
 		}
 	]
